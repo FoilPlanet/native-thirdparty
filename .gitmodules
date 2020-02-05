@@ -1,3 +1,7 @@
 [submodule "libx264/x264"]
 	path = libx264/x264
 	url = https://code.videolan.org/videolan/x264.git
+
+[submodule "libyuv/jni/libyuv"]
+	path = libyuv/jni/libyuv
+	url = https://chromium.googlesource.com/libyuv/libyuv.git
