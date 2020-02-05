@@ -4,4 +4,4 @@
 
 [submodule "libyuv/jni/libyuv"]
 	path = libyuv/jni/libyuv
-	url = https://chromium.googlesource.com/libyuv/libyuv.git
+	url = https://chromium.googlesource.com/libyuv/libyuv
