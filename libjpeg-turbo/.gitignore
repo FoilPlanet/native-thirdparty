@@ -1,0 +1,7 @@
+/*.tgz
+/.env
+/gdb.setup
+/libs/
+/obj/
+/prebuilt/
+/temp/
